@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Back-end | Módulo 01 - Aula 05
+# Back-end | Objetos e Funções
 
 ## Exercícios de classe 🏫
 
