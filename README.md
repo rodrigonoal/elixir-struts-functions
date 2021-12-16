@@ -2,6 +2,8 @@
 
 # Back-end | Objetos e Funções
 
+Estes exercícios pertencem à Cubos Academy. Sua estrutura de execução foi modificada para comportar resoluções utilizando Elixir. Estes, particularmente, fizeram amplo uso de struts e maps.
+
 ## Exercícios de classe 🏫
 
 01. Sistema de correção de provas
